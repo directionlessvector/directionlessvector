@@ -191,7 +191,7 @@ Matching engine simulating a live exchange order book.
 
 <br/>
 
-<img src="https://codeforces-readme-stats.vercel.app/api/card?username=directionlessvector&theme=dark" />
+<img src="https://codeforces-readme-stats.vercel.app/api/card?username=itz_priyank&theme=dark" />
 
 <br/><br/>
 
