@@ -79,12 +79,39 @@ I'd rather ship a working system from scratch than follow another tutorial.
 
 <br/>
 
+---
+
+<br/>
+
+<div align="center">
+
+### Competitive Programming
+
+<img src="https://leetcard.jacoblin.cool/directionlessvector?theme=dark&font=JetBrains%20Mono&ext=heatmap" />
+
+<br/>
+
+<img src="https://codeforces-readme-stats.vercel.app/api/card?username=itz_priyank&theme=dark" />
+
+<br/><br/>
+
+[![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=FFA116)](https://leetcode.com/u/directionlessvector/)
+[![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/itz_priyank)
+
+</div>
+
+<br/>
+
+---
+
+<br/>
+
 <div align="center">
 
 ### GitHub Analytics
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=directionlessvector&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6C63FF&icon_color=00C2A8&text_color=c9d1d9&count_private=true" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=directionlessvector&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6C63FF&text_color=c9d1d9&langs_count=8" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=directionlessvector&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6C63FF&icon_color=00C2A8&text_color=c9d1d9&cache_seconds=86400" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=directionlessvector&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6C63FF&text_color=c9d1d9&langs_count=8&cache_seconds=86400" />
 
 <br/>
 
@@ -185,29 +212,6 @@ Matching engine simulating a live exchange order book.
 
 <div align="center">
 
-### Competitive Programming
-
-<img src="https://leetcard.jacoblin.cool/directionlessvector?theme=dark&font=JetBrains%20Mono&ext=heatmap" />
-
-<br/>
-
-<img src="https://codeforces-readme-stats.vercel.app/api/card?username=itz_priyank&theme=dark" />
-
-<br/><br/>
-
-[![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=FFA116)](https://leetcode.com/u/directionlessvector/)
-[![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/directionlessvector)
-
-</div>
-
-<br/>
-
----
-
-<br/>
-
-<div align="center">
-
 ### Open Source
 
 Building infrastructure software from scratch — not following tutorials.
@@ -226,10 +230,10 @@ Learning in public, sharing progress through commits, and treating every project
 ### Contact
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/directionlessvector)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR-LINKEDIN-HANDLE)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/priyank-shah-a41986270)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shahpriyank1605@gmail.com)
 [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=FFA116)](https://leetcode.com/u/directionlessvector/)
-[![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/directionlessvector)
+[![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/itz_priyank)
 
 <br/>
 
@@ -237,4 +241,4 @@ Learning in public, sharing progress through commits, and treating every project
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:0f0f0f&height=100&section=footer" /># directionlessvector
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:0f0f0f&height=100&section=footer" />
