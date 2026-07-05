@@ -31,25 +31,49 @@ I'd rather ship a working system from scratch than follow another tutorial.
 
 ### Tech Stack
 
+<table align="center">
+<tr>
+<td align="center" width="50%">
+
 **Languages**
 
 <img src="https://skillicons.dev/icons?i=c,cpp,java,py,js,ts&theme=dark" />
+
+</td>
+<td align="center" width="50%">
 
 **Backend**
 
 <img src="https://skillicons.dev/icons?i=nodejs,express,redis,postgres,mongodb,prisma&theme=dark" />
 
+</td>
+</tr>
+<tr>
+<td align="center" width="50%">
+
 **Frontend**
 
 <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind&theme=dark" />
+
+</td>
+<td align="center" width="50%">
 
 **DevOps**
 
 <img src="https://skillicons.dev/icons?i=docker,git,linux&theme=dark" />
 
+</td>
+</tr>
+<tr>
+<td align="center" colspan="2">
+
 **Tools**
 
 <img src="https://skillicons.dev/icons?i=vscode,postman&theme=dark" />
+
+</td>
+</tr>
+</table>
 
 </div>
 
@@ -63,13 +87,26 @@ I'd rather ship a working system from scratch than follow another tutorial.
 
 ### Competitive Programming
 
-<img src="https://leetcard.jacoblin.cool/directionlessvector?theme=dark&font=JetBrains%20Mono&ext=heatmap" />
-
-<br/>
-
-<img src="https://codeforces-readme-stats.vercel.app/api/card?username=itz_priyank&theme=dark" />
+<img src="https://img.shields.io/badge/Problems%20Solved-1%2C413%2B-6C63FF?style=for-the-badge&labelColor=0f0f0f" />
 
 <br/><br/>
+
+<table align="center">
+<tr>
+<td align="center" width="50%">
+
+<img width="100%" src="https://leetcard.jacoblin.cool/directionlessvector?theme=dark&font=JetBrains%20Mono&ext=heatmap" />
+
+</td>
+<td align="center" width="50%">
+
+<img width="100%" src="https://codeforces-readme-stats.vercel.app/api/card?username=itz_priyank&theme=dark" />
+
+</td>
+</tr>
+</table>
+
+<br/>
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=FFA116)](https://leetcode.com/u/directionlessvector/)
 [![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/itz_priyank)
@@ -103,7 +140,7 @@ Production-grade rate limiting library with multiple algorithms, atomic Redis Lu
 <td width="50%" valign="top">
 
 #### 🎙️ VoiceTrace
-VoiceTrace (aka VyaaparSathi) is a full-stack AI-powered application for small business owners/vendors. It transforms voice notes and paper ledgers into structured financial data using OCR and LLM extraction. Features anomaly detection, supplier mapping, business intelligence, alerts, stock tracking, and more.
+AI-powered meeting assistant with transcription and semantic search.
 
 `Speech Recognition` `Summarization` `Search` `AI`
 
