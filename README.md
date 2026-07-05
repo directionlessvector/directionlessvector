@@ -1,27 +1,5 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f0f,100:1a1a2e&height=200&section=header&text=&fontAlign=50&fontSize=0" />
-
-<br/>
-
-<a href="https://github.com/directionlessvector">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=2200&pause=900&color=6C63FF&center=true&vCenter=true&width=650&lines=Systems+Programming;Distributed+Systems;Building+High+Performance+Software;Open+Source+Contributor;Competitive+Programmer;C%2B%2B+Developer" alt="Typing SVG" />
-</a>
-
-<br/>
-
-<img src="https://img.shields.io/badge/-C++%20Systems%20Engineer-0f0f0f?style=for-the-badge&labelColor=0f0f0f&color=6C63FF" />
-<img src="https://img.shields.io/badge/-Backend%20%26%20Distributed%20Systems-0f0f0f?style=for-the-badge&labelColor=0f0f0f&color=00C2A8" />
-<img src="https://img.shields.io/badge/-Competitive%20Programmer-0f0f0f?style=for-the-badge&labelColor=0f0f0f&color=FF6B6B" />
-
-</div>
-
-<br/>
-
-<table align="center">
-<tr>
-<td align="center" width="100%">
-
 ### About
 
 Computer Science student focused on **systems programming** and **backend engineering**.
@@ -30,9 +8,7 @@ Most of my time goes into **C++**, networking internals, and reading source code
 Outside of that, I compete on **Codeforces** and **LeetCode** — problem solving is how I stay sharp.
 I'd rather ship a working system from scratch than follow another tutorial.
 
-</td>
-</tr>
-</table>
+</div>
 
 <br/>
 
@@ -108,51 +84,6 @@ I'd rather ship a working system from scratch than follow another tutorial.
 
 <div align="center">
 
-### GitHub Analytics
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=directionlessvector&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6C63FF&icon_color=00C2A8&text_color=c9d1d9&cache_seconds=86400" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=directionlessvector&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6C63FF&text_color=c9d1d9&langs_count=8&cache_seconds=86400" />
-
-<br/>
-
-<img width="70%" src="https://streak-stats.demolab.com?user=directionlessvector&theme=tokyonight&hide_border=true&background=0D1117&ring=6C63FF&fire=FF6B6B&currStreakLabel=6C63FF" />
-
-<br/>
-
-<img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=directionlessvector&theme=react-dark&hide_border=true&bg_color=0D1117&color=6C63FF&line=00C2A8&point=FFFFFF" />
-
-</div>
-
-<br/>
-
-<div align="center">
-
-### Trophies
-
-<img src="https://github-profile-trophy.vercel.app/?username=directionlessvector&theme=darkhub&no-frame=true&no-bg=true&margin-w=10&row=1&column=6" />
-
-</div>
-
-<br/>
-
-<div align="center">
-
-### Contribution Graph
-
-<img src="https://raw.githubusercontent.com/directionlessvector/directionlessvector/output/github-contribution-grid-snake-dark.svg" />
-
-<sub>Generated automatically via GitHub Actions — see <code>.github/workflows/snake.yml</code></sub>
-
-</div>
-
-<br/>
-
----
-
-<br/>
-
-<div align="center">
-
 ### Featured Projects
 
 </div>
@@ -212,10 +143,40 @@ Matching engine simulating a live exchange order book.
 
 <div align="center">
 
-### Open Source
+### GitHub Analytics
 
-Building infrastructure software from scratch — not following tutorials.
-Learning in public, sharing progress through commits, and treating every project as a chance to understand a system end-to-end rather than just use it.
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=directionlessvector&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6C63FF&icon_color=00C2A8&text_color=c9d1d9&cache_seconds=86400" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=directionlessvector&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6C63FF&text_color=c9d1d9&langs_count=8&cache_seconds=86400" />
+
+<br/>
+
+<img width="70%" src="https://streak-stats.demolab.com?user=directionlessvector&theme=tokyonight&hide_border=true&background=0D1117&ring=6C63FF&fire=FF6B6B&currStreakLabel=6C63FF" />
+
+<br/>
+
+<img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=directionlessvector&theme=react-dark&hide_border=true&bg_color=0D1117&color=6C63FF&line=00C2A8&point=FFFFFF" />
+
+</div>
+
+<br/>
+
+<div align="center">
+
+### Trophies
+
+<img src="https://github-profile-trophy.vercel.app/?username=directionlessvector&theme=darkhub&no-frame=true&no-bg=true&margin-w=10&row=1&column=6" />
+
+</div>
+
+<br/>
+
+<div align="center">
+
+### Contribution Graph
+
+<img src="https://raw.githubusercontent.com/directionlessvector/directionlessvector/output/github-contribution-grid-snake-dark.svg" />
+
+<sub>Generated automatically via GitHub Actions — see <code>.github/workflows/snake.yml</code></sub>
 
 </div>
 
