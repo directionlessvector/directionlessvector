@@ -16,8 +16,9 @@ I'd rather ship a working system from scratch than follow another tutorial.
 
 ### Currently Building
 
+| | |
 |---|---|
-| 🧩 | **VectorFlux** — a modern Redis clone written in C++ |
+| 🧩 | **VectorFlux** — a distributed rate limiting library in TypeScript |
 | 🌐 | **Distributed Systems** — consensus, replication, fault tolerance |
 | ⚡ | **Low Latency Infrastructure** — lock-free structures, memory efficiency |
 | 🔌 | **High Performance Networking** — custom event loops & I/O models |
@@ -91,10 +92,10 @@ I'd rather ship a working system from scratch than follow another tutorial.
 <tr>
 <td width="50%" valign="top">
 
-#### 🔺 VectorFlux
-Modern Redis clone built in C++, focused on performance and correctness.
+#### 🚀 VectorFlux
+Production-grade rate limiting library with multiple algorithms, atomic Redis Lua scripts, and framework-agnostic middleware.
 
-`C++` `Persistence` `RESP Protocol` `TTL` `Networking` `Memory Efficient`
+`TypeScript` `Redis` `Token Bucket` `Sliding Window` `Distributed` `Middleware`
 
 [![Repo](https://img.shields.io/badge/View-Repository-0f0f0f?style=flat-square&logo=github)](https://github.com/directionlessvector/VectorFlux)
 
@@ -137,35 +138,6 @@ Matching engine simulating a live exchange order book.
 <br/>
 
 ---
-
-<br/>
-
-<div align="center">
-
-### GitHub Analytics
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=directionlessvector&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6C63FF&icon_color=00C2A8&text_color=c9d1d9&cache_seconds=86400" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=directionlessvector&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6C63FF&text_color=c9d1d9&langs_count=8&cache_seconds=86400" />
-
-<br/>
-
-<img width="70%" src="https://streak-stats.demolab.com?user=directionlessvector&theme=tokyonight&hide_border=true&background=0D1117&ring=6C63FF&fire=FF6B6B&currStreakLabel=6C63FF" />
-
-<br/>
-
-<img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=directionlessvector&theme=react-dark&hide_border=true&bg_color=0D1117&color=6C63FF&line=00C2A8&point=FFFFFF" />
-
-</div>
-
-<br/>
-
-<div align="center">
-
-### Trophies
-
-<img src="https://github-profile-trophy.vercel.app/?username=directionlessvector&theme=darkhub&no-frame=true&no-bg=true&margin-w=10&row=1&column=6" />
-
-</div>
 
 <br/>
 
