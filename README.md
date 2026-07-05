@@ -16,7 +16,6 @@ I'd rather ship a working system from scratch than follow another tutorial.
 
 ### Currently Building
 
-| | |
 |---|---|
 | 🧩 | **VectorFlux** — a modern Redis clone written in C++ |
 | 🌐 | **Distributed Systems** — consensus, replication, fault tolerance |
