@@ -103,7 +103,7 @@ Production-grade rate limiting library with multiple algorithms, atomic Redis Lu
 <td width="50%" valign="top">
 
 #### 🎙️ VoiceTrace
-AI-powered meeting assistant with transcription and semantic search.
+VoiceTrace (aka VyaaparSathi) is a full-stack AI-powered application for small business owners/vendors. It transforms voice notes and paper ledgers into structured financial data using OCR and LLM extraction. Features anomaly detection, supplier mapping, business intelligence, alerts, stock tracking, and more.
 
 `Speech Recognition` `Summarization` `Search` `AI`
 
